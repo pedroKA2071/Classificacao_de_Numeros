@@ -1,0 +1,8 @@
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\obj\Debug\Classificação de Números.csproj.AssemblyReference.cache
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\obj\Debug\Classificação de Números.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\obj\Debug\Classificação de Números.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\bin\Debug\Classificação de Números.exe.config
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\bin\Debug\Classificação de Números.exe
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\bin\Debug\Classificação de Números.pdb
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\obj\Debug\Classificação de Números.exe
+C:\Users\pedro.hgaspar2\source\repos\Classificacao_de_Numeros\Classificação de Números\Classificação de Números\obj\Debug\Classificação de Números.pdb
